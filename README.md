@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-<a href="mailto:miguelfernandoaurelius@gmail.como">
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=miguelfernandoaurelius@gmail.com&su=Assunto&body=Corpo%20da%20mensagem">
   <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:sandypiropodev@gmail.com" />
 </a>
 
