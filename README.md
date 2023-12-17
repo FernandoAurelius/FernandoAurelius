@@ -58,7 +58,7 @@
         <img height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=FernandoAurelius&theme=radical&type=png)"/>
       </td>
       <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api?username=FernandoAurelius&show_icons=true&theme=dark)"/>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoAurelius&layout=compact&theme=radical&count_private=true)"/>
       </td>
     </tr>
   </table>
