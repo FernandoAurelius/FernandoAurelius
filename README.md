@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🕑 I'm Learning: <strong>Java OOP (Udemy), JavaScript and Logical Programming (Alura), Data Structures and Spring</strong>
+  🕑 I'm Learning: <strong>Python, Django, Java, Spring and Data Structures</strong>
 </p>
 
 <p align="left">
