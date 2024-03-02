@@ -3,11 +3,11 @@
 <img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-      Hello there! I'm a beginner <strong>Java developer</strong> in High School and a <strong>Self-taught student</strong> in Programming.
+      Hello there! I'm a beginner <strong>Backend Developer</strong> in High School and a <strong>Self-taught student</strong> in Programming.
 </p>
 
 <p align="left">
-  🕑 I'm Learning: <strong>Python, Django, Java, Spring and Data Structures</strong>
+  🕑 I'm Learning: <strong>Python, Django, HTML, CSS, Data Structures and Algorithms</strong>
 </p>
 
 <p align="left">
