@@ -1,6 +1,6 @@
 # Fernando Flores
 
-<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" min-width="300px" max-width="300px" width="300px" align="right" />
 
 <p align="left"> 
       Hello there! I'm a beginner <strong>Backend Developer</strong> in High School and a <strong>Self-taught student</strong> in Programming.
