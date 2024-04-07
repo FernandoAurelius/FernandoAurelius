@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🕑 I'm Learning: <strong>Python, Django, HTML, CSS, Data Structures and Algorithms</strong>
+  🕑 I'm Learning: <strong>Python, Django, C, HTML, CSS, Data Structures and Algorithms (Reading "Grokking Algorithms"...)</strong>
 </p>
 
 <p align="left">
