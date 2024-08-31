@@ -54,7 +54,7 @@
   <table style="margin: 0 auto;" align="center">
     <tr>
       <td>
-        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=FernandoAurelius&theme=radical&type=png)"/>
+        <img height="170px" src="https://streak-stats.demolab.com/?user=fernandoaurelius&theme=radical&type=png)"/>
       </td>
       <td>
         <img height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoAurelius&layout=compact&theme=radical&count_private=true)"/>
