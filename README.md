@@ -89,6 +89,7 @@
   <table style="margin: 0 auto;" align="center">
     <tr>
       <td>
+          <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FernandoAurelius&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
       </td>
       <td>
           <picture style="height: 169px;">
