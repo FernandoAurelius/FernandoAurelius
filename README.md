@@ -89,10 +89,19 @@
   <table style="margin: 0 auto;" align="center">
     <tr>
       <td>
-        <img height="169px" src="https://github-readme-stats.vercel.app/api?username=FernandoAurelius" alt="GitHub Streak" />
       </td>
       <td>
-        <img height="169px" src="https://github-readme-stats.vercel.app/api?username=FernandoAurelius&show_icons=true&theme=radical"/>
+          <picture style="height: 169px;">
+            <source
+              srcset="https://github-readme-stats.vercel.app/api?username=FernandoAurelius&show_icons=true&theme=dark"
+              media="(prefers-color-scheme: dark)"
+            />
+            <source
+              srcset="https://github-readme-stats.vercel.app/api?username=FernandoAurelius&show_icons=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img src="https://github-readme-stats.vercel.app/api?username=FernandoAurelius&show_icons=true" />
+         </picture>
       </td>
     </tr>
   </table>
