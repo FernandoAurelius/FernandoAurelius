@@ -89,7 +89,7 @@
   <table style="margin: 0 auto;" align="center">
     <tr>
       <td>
-        <img height="169px" src="https://streak-stats.demolab.com?user=FernandoAurelius&theme=dark&hide_border=false&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+        <img height="169px" src="https://github-readme-stats.vercel.app/api?username=FernandoAurelius" alt="GitHub Streak" />
       </td>
       <td>
         <img height="169px" src="https://github-readme-stats.vercel.app/api?username=FernandoAurelius&show_icons=true&theme=radical"/>
