@@ -49,52 +49,61 @@ motto: "O aprendizado é infinito, e eu estou só começando!"
 };
 ```
 
+<br/>
+
 <div align="center"> <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoAurelius&theme=react-dark&hide_border=true&area=true"
-    alt="Contribution Graph" /> </div>
-🎯 Current Story Arc
-"Buscando me tornar o maior desenvolvedor em todos os multiversos, acreditando que grandes linhas de código trazem
-grandes responsabilidades!"
+    alt="Contribution Graph" /> 
+</div>
 
-🔭 Trabalhando em projetos Full-stack
-🌱 Aprofundando minhas habilidades em cloud (AWS) e arquitetura
-⚡ Buscando soluções rápidas e de alta performance
-🎮 Side quest: Terminando minha lista de animes!
-🌟 Achievement Progress
+### 🎯 Current Story Arc
+
+> *"Em busca de me tornar o maior desenvolvedor dos multiversos, acreditando que com grandes códigos vem grandes responsabilidades!"*
+
+- 🔭 Trabalhando em projetos Full-stack
+- 🌱 Aprofundando minhas habilidades em cloud (AWS) e arquitetura
+- ⚡ Buscando soluções rápidas e de alta performance
+- 🎮 Side quest: Completando minha lista de animes
+
+
+
+### 🌟 Achievement Progress
+
 <div align="center">
 
-  ```plaintext
-  ⚔️ BATTLE STATS: BACKEND SAGA ⚔️
+```plaintext
+⚔️ BATTLE STATS: BACKEND SAGA ⚔️
 
-  ╔════════════════════════════════════════════════════════╗
-    LEVEL 90 DEVELOPER | CLASS: BACKEND SUMMONER | EXP: MAX
-  ╠════════════════════════════════════════════════════════╣
+╔════════════════════════════════════════════════════════╗
+  LEVEL 90 DEVELOPER | CLASS: BACKEND SUMMONER | EXP: MAX
+╠════════════════════════════════════════════════════════╣
 
-                    ⚡ ULTIMATE TECHNIQUES:
-  ╟────────────────────────────────────────────────────────╢
-      JAVA FORCE [SSJ2] ▰▰▰▰▰▰▰▰▱▱
-      └─━━━「 Mastery Level: 80% - Spring Boot no Jutsu 」
+⚡ ULTIMATE TECHNIQUES:
+╟────────────────────────────────────────────────────────╢
+JAVA FORCE [SSJ2] ▰▰▰▰▰▰▰▰▱▱
+└─━━━「 Mastery Level: 80% - Spring Boot no Jutsu 」
 
-      PYTHON FURY [ELITE] ▰▰▰▰▰▰▰▱▱▱
-      └─━━━「 Mastery Level: 75% - Django Dominion 」
+PYTHON FURY [ELITE] ▰▰▰▰▰▰▰▱▱▱
+└─━━━「 Mastery Level: 75% - Django Dominion 」
 
-      CLOUD MANIPULATION [BANKAI] ▰▰▰▰▰▰▱▱▱▱
-      └─━━━「 Mastery Level: 70% - AWS Summoning 」
+CLOUD MANIPULATION [BANKAI] ▰▰▰▰▰▰▱▱▱▱
+└─━━━「 Mastery Level: 70% - AWS Summoning 」
 
-      JAVASCRIPT BLAZE [CHAKRA] ▰▰▰▰▰▱▱▱▱▱
-      └─━━━「 Mastery Level: 65% - DOM & ES6 Sorcery 」
-  ╟────────────────────────────────────────────────────────╢
+JAVASCRIPT BLAZE [CHAKRA] ▰▰▰▰▰▱▱▱▱▱
+└─━━━「 Mastery Level: 65% - DOM & ES6 Sorcery 」
+╟────────────────────────────────────────────────────────╢
 
-  ✨ LEGENDARY ACHIEVEMENTS:
-  ╟────────────────────────────────────────────────────────╢
-      🏆 ONE PUNCH DEBUGGER - "Bugs Tremem Diante de Mim"
-      ⚔️ FULL STACK SORCERER - "Mestre de Todos os Reinos"
-      📜 CLEAN CODE SAGE - "Guardião dos Padrões Sagrados"
-  ╚════════════════════════════════════════════════════════╝
-  ```
+✨ LEGENDARY ACHIEVEMENTS:
+╟────────────────────────────────────────────────────────╢
+🏆 ONE PUNCH DEBUGGER - "Bugs Tremem Diante de Mim"
+⚔️ FULL STACK SORCERER - "Mestre de Todos os Reinos"
+📜 CLEAN CODE SAGE - "Guardião dos Padrões Sagrados"
+╚════════════════════════════════════════════════════════╝
+```
 
 </div>
-💻 Tech Stack (Equipped Items)
+
+### 💻 Tech Stack (Equipped Items)
 <div align="center">
 
   ```plaintext
@@ -152,7 +161,7 @@ grandes responsabilidades!"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48"
           alt="Postman" /> <br>Postman </td>
       <td align="center" width="96"> <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+          src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
           width="48" height="48" alt="AWS" /> <br>AWS </td>
     </tr>
   </table>
