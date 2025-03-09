@@ -5,7 +5,7 @@
 </div>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6FA4FC&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Fernando+Flores!;Backend+and+Full-stack+Developer;IT+Support+Background+%7C+AWS+FocusStudying+Spring+Boot%2C+Vue.js+%26+Java+Certifications;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6FA4FC&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Fernando+Flores!;Backend+and+Full-stack+Developer;IT+Support+Specialist;AWS+Certified;Studying+Spring+Boot%2C+Vue.js+%26+Java+Certifications;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <!-- GitHub Status e Top Langs -->
 <div align="center">
